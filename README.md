@@ -1,4 +1,4 @@
-# Meta-Learning-with-Reinforcement-Learning
+# Meta-Learning-for-Reinforcement-Learning
 Reptile algorithm (Meta) for PPO (RL) on 'Reacher' environment.
 
 The **Reacher** environment:
